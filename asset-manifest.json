@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-crypto-currency-converter-app/static/css/main.e8903e46.css",
+    "main.js": "/react-crypto-currency-converter-app/static/js/main.efa853e3.js",
+    "index.html": "/react-crypto-currency-converter-app/index.html",
+    "main.e8903e46.css.map": "/react-crypto-currency-converter-app/static/css/main.e8903e46.css.map",
+    "main.efa853e3.js.map": "/react-crypto-currency-converter-app/static/js/main.efa853e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8903e46.css",
+    "static/js/main.efa853e3.js"
+  ]
+}
